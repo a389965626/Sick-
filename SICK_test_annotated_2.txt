@@ -1,0 +1,25 @@
+9917	The girl who is little is combing her hair into a pony tail	A man in a red shirt is doing a trick with the rollerblades	1.2	NEUTRAL
+9892	A little girl is smiling and running outside	The surfer is riding a small wave	1	NEUTRAL
+6856	A dog is running up a hill full of grass	A dog is running uphill	4.2	ENTAILMENT
+6949	A blonde boy in green is sitting on a swing	A blonde boy in green is standing on a swing	4.3	CONTRADICTION
+6952	A blonde boy in green is standing on a swing	A little girl with blond hair is smiling and sitting on a swing	2.7	NEUTRAL
+6972	A man in a red uniform is making a jump in a dirt bike race	A man in a red uniform is racing and making a jump over a bike in the dirt	3.7	NEUTRAL
+7011	A white dog is standing on fallen leaves	There is no white dog standing on the leaves on the ground	2.9	CONTRADICTION
+7159	A black dog is walking through some tall grass	The black dog is running through the grass	3.8	NEUTRAL
+9845	Two men are fighting	A woman is dipping a prawn in batter	1	NEUTRAL
+9867	A dog is chasing the tail of an animal in the grass	The blonde girl with the pink top is not smiling and not wearing funny glasses with a large nose attached	1	NEUTRAL
+9871	The brown dog is playing outdoors	Two people are arguing near a crowd	1	NEUTRAL
+9872	A father is launching the daughter in a swimming pool	There is no biker jumping in the air	1.1	NEUTRAL
+9873	There is no girl playing a flute	Two baby pandas are playing	1	NEUTRAL
+9891	A man is spitting	There is no person standing in a vast field of glacial ice	1.1	NEUTRAL
+9892	A little girl is smiling and running outside	The surfer is riding a small wave	1	NEUTRAL
+9894	People are sitting against a wall	A woman is wearing a blue shirt with a white vest and a white cap and is talking and marching	1.4	NEUTRAL
+9896	A person is scrubbing a zucchini	The woman is cutting cooked octopus	1.185	NEUTRAL
+9898	Someone is playing the guitar	A shirtless woman is jumping over a log	1	NEUTRAL
+9902	The dog is catching a ball	A small girl is riding in a toy car	1	NEUTRAL
+9908	There is no man playing a game on the grass	A man is playing the guitar	1.7	NEUTRAL
+9910	A big brown dog and a small grey dog are standing on a rocky surface	A woman is cutting onions	1	NEUTRAL
+9917	The girl, who is little, is combing her hair into a pony tail.	A man in a red shirt is doing a trick with the rollerblades	1.2	NEUTRAL
+9923	A girl is standing in a group and is wearing a black shirt and pink beads	A small white dog is jumping up in the snow	1.1	NEUTRAL
+9924	There is no blonde lady looking at a tower	A woman dressed in elegant clothing is inside a crowd of people and is looking down	2.4	NEUTRAL
+9930	A dog is fetching a stick out of very dirty water	The woman is adding sugar to the meat	1	NEUTRAL
